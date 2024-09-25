@@ -1,6 +1,4 @@
 # 🪄 Presto: A Lightweight Presentation App
-
-**Author**: Kumaran Nathan  
 **Project Type**: Frontend ReactJS Application  
 **Tech Stack**: ReactJS, JavaScript, CSS, HTML, RESTful API
 
