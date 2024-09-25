@@ -62,7 +62,7 @@ This project was part of a larger effort to create an MVP for an innovative pres
 ## Setup and Running the program
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/presto.git
+git clone https://github.com/kumarannathan/presto.git
 cd presto
 ```
 2. Install dependencies:
